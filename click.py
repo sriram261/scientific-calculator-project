@@ -2,7 +2,6 @@
 import tkinter
 import math
 
-
 # To provide functionalities
 def click(val):
     e = entry.get()  # getting the value
